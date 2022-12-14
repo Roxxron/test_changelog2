@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.1.0](https://github.com/Roxxron/test_changelog2/compare/v1.0.0...v1.1.0) (2022-12-14)
+
+
+### Features
+
+* co tam ([037b07b](https://github.com/Roxxron/test_changelog2/commit/037b07b9865bd6f5a94c40bbeefac7f32442b616))
+
 ## [1.0.0](https://github.com/Roxxron/test_changelog2/compare/v0.1.1...v1.0.0) (2022-12-14)
 
 ### [0.1.1](https://github.com/Roxxron/test_changelog2/compare/v0.1.0...v0.1.1) (2022-12-14)
