@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.1](https://github.com/Roxxron/test_changelog2/compare/v0.1.0...v0.1.1) (2022-12-14)
+
+
+### Features
+
+* nowosc ([651d8f1](https://github.com/Roxxron/test_changelog2/commit/651d8f1430f7f24c08656e0754c4513f0bb9604e))
+
 ## [0.1.0](https://github.com/Roxxron/test_changelog2/compare/v0.0.6...v0.1.0) (2022-12-14)
 
 ### [0.0.6](https://github.com/Roxxron/test_changelog2/compare/v0.0.5...v0.0.6) (2022-12-14)
